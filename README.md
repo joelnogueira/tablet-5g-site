@@ -24,7 +24,7 @@ Basta acessar o site: [Tablet-5G](https://tablet5g.netlify.app/) 🌍
 #### WhatsApp +244927503016
 #### [Envia-me um e-mail](mailto:joelnogueira080@gmail.com) 📧
 #### [Visita-me no linkedin](https://linkedin.com/in/joel-nogueira) 👋
-#### [visita-me no instagram](instagram.com/joelnogueira.com) 👋
+#### [visita-me no instagram](https://instagram.com/joelnogueira.com) 👋
 #### [Visita-me no facebook](https://www.facebook.com/profile.php?id=61551343635224&sk=about) 👋
 
 ## 🤝 Como Contribuir
